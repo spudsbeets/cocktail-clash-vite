@@ -918,13 +918,18 @@
 #basic-rules-footer {
     text-align: right;
     padding-right: 10px;
-    font-size: .3em;
+    font-size: 1.2em;
 }
 
 #menu-footer {
-    font-size: .3em;
+    font-size: 1.2em;
     text-align: right;
     margin-bottom: -15px;
+}
+
+#play-again-button {
+    margin-top: 300px;
+    margin-left: -650px;
 }
 
 @media (max-width: 1250px) {
@@ -1470,6 +1475,11 @@
     #menu-footer {
         font-size: .25em;
         margin-bottom: -12.5px;
+    }
+
+    #play-again-button {
+        margin-top: 300px;
+        margin-left: -500px;
     }
 }
 
@@ -2018,6 +2028,12 @@
     #menu-footer {
         font-size: .2em;
         margin-bottom: -10px;
+    }
+
+    #play-again-button {
+        margin-top: 300px;
+        margin-left: -400px;
+        font-size: .7em;
     }
 }
 

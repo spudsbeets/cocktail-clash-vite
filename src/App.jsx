@@ -10,7 +10,7 @@ function CardsInPlay(props) {
       name: "Whiskey",
       text: "",
       id: "whiskey-jan-1",
-      img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+      img: "../src/images/whiskey.jpg",
       ability: "",
       value: 0
      },
@@ -19,7 +19,7 @@ function CardsInPlay(props) {
        name: "Whiskey",
        text: "",
        id: "whiskey-jan-2",
-       img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+       img: "../src/images/whiskey.jpg",
        ability: "",
        value: 1
       },
@@ -28,7 +28,7 @@ function CardsInPlay(props) {
        name: "Gin",
        text: "",
        id: "gin-jan-1",
-       img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+       img: "../src/images/gin.jpg",
        ability: "",
        value: 2
       },
@@ -37,7 +37,7 @@ function CardsInPlay(props) {
        name: "Gin",
        text: "",
        id: "gin-jan-2",
-       img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+       img: "../src/images/gin.jpg",
        ability: "",
        value: 3
       },
@@ -46,7 +46,7 @@ function CardsInPlay(props) {
        name: "Vodka",
        text: "",
        id: "vodka-jan-1",
-       img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+       img: "../src/images/vodka.jpg",
        ability: "",
        value: 4
       },
@@ -55,7 +55,7 @@ function CardsInPlay(props) {
        name: "Vodka",
        text: "",
        id: "vodka-jan-2",
-       img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+       img: "../src/images/vodka.jpg",
        ability: "",
        value: 5
       },
@@ -64,7 +64,7 @@ function CardsInPlay(props) {
        name: "Rum",
        text: "",
        id: "rum-jan-1",
-       img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+       img: "../src/images/rum.jpg",
        ability: "",
        value: 6
       },
@@ -73,7 +73,7 @@ function CardsInPlay(props) {
        name: "Rum",
        text: "",
        id: "rum-jan-2",
-       img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+       img: "../src/images/rum.jpg",
        ability: "",
        value: 7
       },
@@ -82,7 +82,7 @@ function CardsInPlay(props) {
        name: "Tequila",
        text: "",
        id: "tequila-jan-1",
-       img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+       img: "../src/images/tequila.jpg",
        ability: "",
        value: 8
       },
@@ -91,7 +91,7 @@ function CardsInPlay(props) {
        name: "Tequila",
        text: "",
        id: "tequila-jan-2",
-       img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+       img: "../src/images/tequila.jpg",
        ability: "",
        value: 9
       },
@@ -100,7 +100,7 @@ function CardsInPlay(props) {
        name: "Vermouth",
        text: "",
        id: "vermouth-jan",
-       img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+       img: "../src/images/vermouth.jpg",
        ability: "",
        value: 10
       },
@@ -109,7 +109,7 @@ function CardsInPlay(props) {
        name: "Soda",
        text: "",
        id: "soda-jan",
-       img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+       img: "../src/images/soda.jpg",
        ability: "",
        value: 11
       },
@@ -118,7 +118,7 @@ function CardsInPlay(props) {
        name: "Pianist",
        text: "",
        id: "pianist-jan",
-       img: "https://drive.google.com/uc?export=view&id=18FproS5tX-cgKWIRTGjcjDv9vrvBE7Ey",
+       img: "../src/images/pianist.jpg",
        ability: "",
        value: 12
       },
@@ -127,7 +127,7 @@ function CardsInPlay(props) {
        name: "Vodka",
        text: "",
        id: "vodka-jan-3",
-       img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+       img: "../src/images/vodka.jpg",
        ability: "",
        value: 13
       },
@@ -136,7 +136,7 @@ function CardsInPlay(props) {
        name: "White Paint",
        text: "Minimalist",
        id: "white-paint-jan",
-       img: "https://drive.google.com/uc?export=view&id=1rvtoaH2xOdORftfNB4cV0jKnD-cZ2Ub1",
+       img: "../src/images/white-paint.jpg",
        ability: "",
        value: 14
       },
@@ -145,7 +145,7 @@ function CardsInPlay(props) {
        name: "Saving for Later",
        text: "Draw and keep both cards next round.",
        id: "ability-a-jan",
-       img: "https://drive.google.com/uc?export=view&id=1wCdMQ7-UFg_H1q-e2NuALoajfA0odHXG",
+       img: "../src/images/saving-for-later.jpg",
        ability: "",
        value: 15
       }
@@ -157,7 +157,7 @@ function CardsInPlay(props) {
       name: "Vodka",
       text: "",
       id: "vodka-feb",
-      img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+      img: "../src/images/vodka.jpg",
       ability: "",
       value: 0
      },
@@ -166,7 +166,7 @@ function CardsInPlay(props) {
       name: "Gin",
       text: "",
       id: "gin-feb",
-      img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+      img: "../src/images/gin.jpg",
       ability: "",
       value: 1
      },
@@ -175,7 +175,7 @@ function CardsInPlay(props) {
       name: "Tequila",
       text: "",
       id: "tequila-feb",
-      img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+      img: "../src/images/tequila.jpg",
       ability: "",
       value: 2
      },
@@ -184,7 +184,7 @@ function CardsInPlay(props) {
       name: "Whiskey",
       text: "",
       id: "whiskey-feb",
-      img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+      img: "../src/images/whiskey.jpg",
       ability: "",
       value: 3
      },
@@ -193,7 +193,7 @@ function CardsInPlay(props) {
       name: "Rum",
       text: "",
       id: "rum-feb-1",
-      img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+      img: "../src/images/rum.jpg",
       ability: "",
       value: 4
      },
@@ -202,7 +202,7 @@ function CardsInPlay(props) {
       name: "Rum",
       text: "",
       id: "rum-feb-2",
-      img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+      img: "../src/images/rum.jpg",
       ability: "",
       value: 5
      },
@@ -211,7 +211,7 @@ function CardsInPlay(props) {
       name: "Simple",
       text: "",
       id: "simple-feb",
-      img: "https://drive.google.com/uc?export=view&id=1T_cMJmLu1utKkXPVB8x1ewGsSNujuyzR",
+      img: "../src/images/simple.jpg",
       ability: "",
       value: 6
      },
@@ -220,7 +220,7 @@ function CardsInPlay(props) {
       name: "Digging thru the Trash",
       text: "Draw 3 from discard, select 1.",
       id: "ability-b-feb",
-      img: "https://drive.google.com/uc?export=view&id=11YmkwBBqqQ9zNguaJfPlUB7uZSAv9Z5i",
+      img: "../src/images/digging-thru-the-trash.jpg",
       ability: "",
       value: 7
      },
@@ -229,7 +229,7 @@ function CardsInPlay(props) {
       name: "Drummer",
       text: "",
       id: "drummer-feb",
-      img: "https://drive.google.com/uc?export=view&id=1lzXSpmCmVnoq0h2ogioHi24nHNgTw2ug",
+      img: "../src/images/drummer.jpg",
       ability: "",
       value: 8
      },
@@ -238,7 +238,7 @@ function CardsInPlay(props) {
       name: "Hanging Plant",
       text: "Bohemian",
       id: "hanging-plant-feb",
-      img: "https://drive.google.com/uc?export=view&id=1S35jRLQ_HOL_U6wBdxKSF7PiYPA1o42F",
+      img: "../src/images/hanging-plant.jpg",
       ability: "",
       value: 9
      },  
@@ -247,7 +247,7 @@ function CardsInPlay(props) {
       name: "Wood Stools",
       text: "Minimalist",
       id: "wood-stools-feb",
-      img: "https://drive.google.com/uc?export=view&id=1pZN-vKUDlWx1fh869Nvizw3-1dl8uexg",
+      img: "../src/images/wood-stools.jpg",
       ability: "",
       value: 10
      },
@@ -256,7 +256,7 @@ function CardsInPlay(props) {
       name: "Ginger Beer",
       text: "",
       id: "ginger-beer-feb",
-      img: "https://drive.google.com/uc?export=view&id=1J6kApMHSiwO1j9Q4f0j0HSLO2fh2Fx4_",
+      img: "../src/images/ginger-beer.jpg",
       ability: "",
       value: 11
      },
@@ -265,7 +265,7 @@ function CardsInPlay(props) {
       name: "Hoarding the Trash",
       text: "Draw 2 from the discard and keep both.",
       id: "ability-c-feb",
-      img: "https://drive.google.com/uc?export=view&id=1la3rEzb0U1D-ppaH-eE3ZTrkB4CDu0tn",
+      img: "../src/images/hoarding-the-trash.jpg",
       ability: "",
       value: 12
      },
@@ -274,7 +274,7 @@ function CardsInPlay(props) {
       name: "Bitters",
       text: "",
       id: "bitters-feb",
-      img: "https://drive.google.com/uc?export=view&id=1ruLRJMo3LyC-szo_1HkViMUdt-Z7AlE3",
+      img: "../src/images/bitters.jpg",
       ability: "",
       value: 13
      },
@@ -283,7 +283,7 @@ function CardsInPlay(props) {
       name: "Soda",
       text: "",
       id: "soda-feb",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
       value: 14
      },
@@ -292,7 +292,7 @@ function CardsInPlay(props) {
       name: "Vermouth",
       text: "",
       id: "vermouth-feb",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: "",
       value: 15
      }
@@ -304,7 +304,7 @@ function CardsInPlay(props) {
       name: "Bassist",
       text: "",
       id: "bassist-mar",
-      img: "https://drive.google.com/uc?export=view&id=1uLkZTZibelP2Eq1-zk9oL-od40e-Mtvy",
+      img: "../src/images/bassist.jpg",
       ability: "",
       value: 0
      },
@@ -313,7 +313,7 @@ function CardsInPlay(props) {
       name: "Hoarding the Trash",
       text: "Draw 2 from the discard and keep both.",
       id: "ability-c-mar",
-      img: "https://drive.google.com/uc?export=view&id=1la3rEzb0U1D-ppaH-eE3ZTrkB4CDu0tn",
+      img: "../src/images/hoarding-the-trash.jpg",
       ability: "",
       value: 1
      },
@@ -322,7 +322,7 @@ function CardsInPlay(props) {
       name: "Kaleido scope Mural",
       text: "Bohemian",
       id: "kaleidoscope-mural-mar",
-      img: "https://drive.google.com/uc?export=view&id=1Qg0QdAEMF_xwQ50145yVH4EBU2ApTmN7",
+      img: "../src/images/kaleidoscope-mural.jpg",
       ability: "",
       value: 2
      },
@@ -331,7 +331,7 @@ function CardsInPlay(props) {
       name: "Hanging Edison Lights",
       text: "Minimalist",
       id: "hanging-edison-lights-mar",
-      img: "https://drive.google.com/uc?export=view&id=1b5gM1M92blqR5dHoxQfDHGZxc9mDslPm",
+      img: "../src/images/hanging-edison-lights.jpg",
       ability: "",
       value: 3
      },
@@ -340,7 +340,7 @@ function CardsInPlay(props) {
       name: "Pillows",
       text: "Bohemian",
       id: "pillows-mar",
-      img: "https://drive.google.com/uc?export=view&id=1RrvrNX1FOkP0KsJ4QeCMFeQJzcooWiWW",
+      img: "../src/images/pillows.jpg",
       ability: "",
       value: 4
      },
@@ -349,7 +349,7 @@ function CardsInPlay(props) {
       name: "Juice",
       text: "",
       id: "juice-mar",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
       value: 5
      },
@@ -358,7 +358,7 @@ function CardsInPlay(props) {
       name: "Soda",
       text: "",
       id: "soda-mar",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
       value: 6
      },
@@ -367,7 +367,7 @@ function CardsInPlay(props) {
       name: "Lime",
       text: "",
       id: "lime-mar",
-      img: "https://drive.google.com/uc?export=view&id=1sOZRrHWTGUDRS-32YTHOBzET3HbtERt9",
+      img: "../src/images/lime.jpg",
       ability: "",
       value: 7
      },
@@ -376,7 +376,7 @@ function CardsInPlay(props) {
       name: "Bitters",
       text: "",
       id: "bitters-mar",
-      img: "https://drive.google.com/uc?export=view&id=1ruLRJMo3LyC-szo_1HkViMUdt-Z7AlE3",
+      img: "../src/images/bitters.jpg",
       ability: "",
       value: 8
      },
@@ -385,7 +385,7 @@ function CardsInPlay(props) {
       name: "Ginger Beer",
       text: "",
       id: "ginger-beer-mar",
-      img: "https://drive.google.com/uc?export=view&id=1J6kApMHSiwO1j9Q4f0j0HSLO2fh2Fx4_",
+      img: "../src/images/ginger-beer.jpg",
       ability: "",
       value: 9
      },
@@ -394,7 +394,7 @@ function CardsInPlay(props) {
       name: "Simple",
       text: "",
       id: "simple-mar",
-      img: "https://drive.google.com/uc?export=view&id=1T_cMJmLu1utKkXPVB8x1ewGsSNujuyzR",
+      img: "../src/images/simple.jpg",
       ability: "",
       value: 10
      },
@@ -403,7 +403,7 @@ function CardsInPlay(props) {
       name: "Pianist",
       text: "",
       id: "pianist-mar",
-      img: "https://drive.google.com/uc?export=view&id=18FproS5tX-cgKWIRTGjcjDv9vrvBE7Ey",
+      img: "../src/images/pianist.jpg",
       ability: "",
       value: 11
      },
@@ -412,7 +412,7 @@ function CardsInPlay(props) {
       name: "White Paint",
       text: "Minimalist",
       id: "white-paint-mar",
-      img: "https://drive.google.com/uc?export=view&id=1rvtoaH2xOdORftfNB4cV0jKnD-cZ2Ub1",
+      img: "../src/images/white-paint.jpg",
       ability: "",
       value: 12
      },
@@ -421,7 +421,7 @@ function CardsInPlay(props) {
       name: "Saving for Later",
       text: "Draw and keep both cards next round.",
       id: "ability-a-mar",
-      img: "https://drive.google.com/uc?export=view&id=1wCdMQ7-UFg_H1q-e2NuALoajfA0odHXG",
+      img: "../src/images/saving-for-later.jpg",
       ability: "",
       value: 13
      },
@@ -430,7 +430,7 @@ function CardsInPlay(props) {
       name: "Schnapps",
       text: "",
       id: "schnapps-mar",
-      img: "https://drive.google.com/uc?export=view&id=1wcDi5tAjpzcyJb2AAKq_d99YSVV86bMK",
+      img: "../src/images/schnapps.jpg",
       ability: "",
       value: 14
      },
@@ -439,7 +439,7 @@ function CardsInPlay(props) {
       name: "Gin",
       text: "",
       id: "gin-mar",
-      img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+      img: "../src/images/gin.jpg",
       ability: "",
       value: 15
      },
@@ -451,7 +451,7 @@ function CardsInPlay(props) {
       name: "Gin",
       text: "",
       id: "gin-apr",
-      img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+      img: "../src/images/gin.jpg",
       ability: "",
       value: 0
      },
@@ -460,7 +460,7 @@ function CardsInPlay(props) {
       name: "Whiskey",
       text: "",
       id: "whiskey-apr-1",
-      img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+      img: "../src/images/whiskey.jpg",
       ability: "",
       value: 1
      },
@@ -469,7 +469,7 @@ function CardsInPlay(props) {
       name: "Vodka",
       text: "",
       id: "vodka-apr",
-      img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+      img: "../src/images/vodka.jpg",
       ability: "",
       value: 2
      },
@@ -478,7 +478,7 @@ function CardsInPlay(props) {
       name: "Tequila",
       text: "",
       id: "tequila-apr",
-      img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+      img: "../src/images/tequila.jpg",
       ability: "",
       value: 3
      },
@@ -487,7 +487,7 @@ function CardsInPlay(props) {
       name: "Rum",
       text: "",
       id: "rum-apr",
-      img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+      img: "../src/images/rum.jpg",
       ability: "",
       value: 4
      },
@@ -496,7 +496,7 @@ function CardsInPlay(props) {
       name: "Vermouth",
       text: "",
       id: "vermouth-apr",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: "",
       value: 5
      },
@@ -505,7 +505,7 @@ function CardsInPlay(props) {
       name: "Campari",
       text: "",
       id: "campari-apr",
-      img: "https://drive.google.com/uc?export=view&id=1iLyn830K5HXr0hF7_aBFVmwUGJPG1PVs",
+      img: "../src/images/campari.jpg",
       ability: "",
       value: 6
      },
@@ -514,7 +514,7 @@ function CardsInPlay(props) {
       name: "Schnapps",
       text: "",
       id: "schnapps-apr",
-      img: "https://drive.google.com/uc?export=view&id=1wcDi5tAjpzcyJb2AAKq_d99YSVV86bMK",
+      img: "../src/images/schnapps.jpg",
       ability: "",
       value: 7
      },
@@ -523,7 +523,7 @@ function CardsInPlay(props) {
       name: "WILD Spirit",
       text: "Functions as a spirit of your choice in June.",
       id: "wild-spirit-apr",
-      img: "https://drive.google.com/uc?export=view&id=1lu4PSIJgJEkKBPBI_a-1kmIDpShtdD3B",
+      img: "../src/images/wild-spirit.jpg",
       ability: "",
       value: 8
      },
@@ -532,7 +532,7 @@ function CardsInPlay(props) {
       name: "Trumpeter",
       text: "",
       id: "trumpeter-apr",
-      img: "https://drive.google.com/uc?export=view&id=1p3xrmUX71GpjTBGNfk9enF4fYUEVg8Ra",
+      img: "../src/images/trumpeter.jpg",
       ability: "",
       value: 9
      },
@@ -541,7 +541,7 @@ function CardsInPlay(props) {
       name: "Bonsai Tree",
       text: "Zen",
       id: "bonsai-tree-apr",
-      img: "https://drive.google.com/uc?export=view&id=1NDjaSZE0ALA4ELkV_udGIiQJBR8_t_SW",
+      img: "../src/images/bonsai-tree.jpg",
       ability: "",
       value: 10
      },
@@ -550,7 +550,7 @@ function CardsInPlay(props) {
       name: "Drummer",
       text: "",
       id: "drummer-apr",
-      img: "https://drive.google.com/uc?export=view&id=1lzXSpmCmVnoq0h2ogioHi24nHNgTw2ug",
+      img: "../src/images/drummer.jpg",
       ability: "",
       value: 11
      },
@@ -559,7 +559,7 @@ function CardsInPlay(props) {
       name: "Hanging Plant",
       text: "Bohemian",
       id: "hanging-plant-apr",
-      img: "https://drive.google.com/uc?export=view&id=1S35jRLQ_HOL_U6wBdxKSF7PiYPA1o42F",
+      img: "../src/images/hanging-plants.jpg",
       ability: "",
       value: 12
      },
@@ -568,7 +568,7 @@ function CardsInPlay(props) {
       name: "Digging thru the Trash",
       text: "Draw 3 from discard, select 1.",
       id: "ability-b-apr",
-      img: "https://drive.google.com/uc?export=view&id=11YmkwBBqqQ9zNguaJfPlUB7uZSAv9Z5i",
+      img: "../src/images/digging-thru-the-trash.jpg",
       ability: "",
       value: 13
      },     
@@ -577,7 +577,7 @@ function CardsInPlay(props) {
       name: "Lime",
       text: "",
       id: "lime-apr",
-      img: "https://drive.google.com/uc?export=view&id=1sOZRrHWTGUDRS-32YTHOBzET3HbtERt9",
+      img: "../src/images/lime.jpg",
       ability: "",
       value: 14
      },
@@ -586,7 +586,7 @@ function CardsInPlay(props) {
       name: "Grenadine",
       text: "",
       id: "grenadine-apr",
-      img: "https://drive.google.com/uc?export=view&id=1JVX5s42mzsr1dTglskH3-ftu_ofYo0Ie",
+      img: "../src/images/grenadine.jpg",
       ability: "",
       value: 15
      },
@@ -595,7 +595,7 @@ function CardsInPlay(props) {
       name: "Whiskey",
       text: "",
       id: "whiskey-apr-2",
-      img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+      img: "../src/images/whiskey.jpg",
       ability: "",
       value: 16
      }
@@ -607,7 +607,7 @@ function CardsInPlay(props) {
       name: "Saxophonist",
       text: "",
       id: "saxophonist-may",
-      img: "https://drive.google.com/uc?export=view&id=1CN72ToX6K6e7Gbq7P86O_1HjzmzDYNYc",
+      img: "../src/images/saxophonist.jpg",
       ability: "",
       value: 0
      },
@@ -616,7 +616,7 @@ function CardsInPlay(props) {
       name: "Vocalist",
       text: "",
       id: "vocalist-may",
-      img: "https://drive.google.com/uc?export=view&id=1_lXcxiyXkR1ViKMP_9l_9jofOXrkQiXQ",
+      img: "../src/images/vocalist.jpg",
       ability: "",
       value: 1
      },
@@ -625,7 +625,7 @@ function CardsInPlay(props) {
       name: "Old Meditating Scholar Art",
       text: "Zen",
       id: "old-meditating-scholar-art-may",
-      img: "https://drive.google.com/uc?export=view&id=1hba5vWhD18zGULuh-Y2rnslqtH9sdgun",
+      img: "../src/images/old-meditating-scholar-art.jpg",
       ability: "",
       value: 2
      },
@@ -634,7 +634,7 @@ function CardsInPlay(props) {
       name: "Sliding Glass Door",
       text: "Zen",
       id: "sliding-glass-door-may",
-      img: "https://drive.google.com/uc?export=view&id=19Z-RgowBE2MZ6eoq5Ej9sFe5EfbOZS_Y",
+      img: "../src/images/sliding-glass-door.jpg",
       ability: "",
       value: 3
      },
@@ -643,7 +643,7 @@ function CardsInPlay(props) {
       name: "WILD Ingredient",
       text: "Functions as an ingredient of your choice in June.",
       id: "wild-ingredient-may",
-      img: "https://drive.google.com/uc?export=view&id=1RAY8FCK9dPOUja1LRtqsg9rVWX9EZgw8",
+      img: "../src/images/wild-ingredient.jpg",
       ability: "",
       value: 4
      },
@@ -652,7 +652,7 @@ function CardsInPlay(props) {
       name: "Grenadine",
       text: "",
       id: "grenadine-may",
-      img: "https://drive.google.com/uc?export=view&id=1JVX5s42mzsr1dTglskH3-ftu_ofYo0Ie",
+      img: "../src/images/grenadine.jpg",
       ability: "",
       value: 5
      },
@@ -661,7 +661,7 @@ function CardsInPlay(props) {
       name: "Juice",
       text: "",
       id: "juice-may-1",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
       value: 6
      },
@@ -670,7 +670,7 @@ function CardsInPlay(props) {
       name: "Tequila",
       text: "",
       id: "tequila-may",
-      img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+      img: "../src/images/tequila.jpg",
       ability: "",
       value: 7
      },
@@ -679,7 +679,7 @@ function CardsInPlay(props) {
       name: "Lime",
       text: "",
       id: "lime-may",
-      img: "https://drive.google.com/uc?export=view&id=1sOZRrHWTGUDRS-32YTHOBzET3HbtERt9",
+      img: "../src/images/lime.jpg",
       ability: "",
       value: 8
      },
@@ -688,7 +688,7 @@ function CardsInPlay(props) {
       name: "Simple",
       text: "",
       id: "simple-may",
-      img: "https://drive.google.com/uc?export=view&id=1T_cMJmLu1utKkXPVB8x1ewGsSNujuyzR",
+      img: "../src/images/simple.jpg",
       ability: "",
       value: 9
      },
@@ -697,7 +697,7 @@ function CardsInPlay(props) {
       name: "Bitters",
       text: "",
       id: "bitters-may",
-      img: "https://drive.google.com/uc?export=view&id=1ruLRJMo3LyC-szo_1HkViMUdt-Z7AlE3",
+      img: "../src/images/bitters.jpg",
       ability: "",
       value: 10
      },
@@ -706,7 +706,7 @@ function CardsInPlay(props) {
       name: "Ginger Beer",
       text: "",
       id: "ginger-beer-may",
-      img: "https://drive.google.com/uc?export=view&id=1J6kApMHSiwO1j9Q4f0j0HSLO2fh2Fx4_",
+      img: "../src/images/ginger-beer.jpg",
       ability: "",
       value: 11,
      },
@@ -715,7 +715,7 @@ function CardsInPlay(props) {
       name: "Vermouth",
       text: "",
       id: "vermouth-may",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: "",
       value: 12
      },
@@ -724,7 +724,7 @@ function CardsInPlay(props) {
       name: "Juice",
       text: "",
       id: "juice-may-2",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
       value: 13
      },
@@ -733,7 +733,7 @@ function CardsInPlay(props) {
       name: "Campari",
       text: "",
       id: "campari-may",
-      img: "https://drive.google.com/uc?export=view&id=1iLyn830K5HXr0hF7_aBFVmwUGJPG1PVs",
+      img: "../src/images/campari.jpg",
       ability: "",
       value: 14
      },
@@ -742,7 +742,7 @@ function CardsInPlay(props) {
       name: "Bassist",
       text: "",
       id: "bassist-may",
-      img: "https://drive.google.com/uc?export=view&id=1uLkZTZibelP2Eq1-zk9oL-od40e-Mtvy",
+      img: "../src/images/bassist.jpg",
       ability: "",
       value: 15,
      },
@@ -751,7 +751,7 @@ function CardsInPlay(props) {
       name: "Soda",
       text: "",
       id: "soda-may",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
       value: 16
      }
@@ -763,7 +763,7 @@ function CardsInPlay(props) {
       name: "Vodka Martini",
       text: "Vodka & Vermouth - 10",
       id: "vodka-martini",
-      img: "https://drive.google.com/uc?export=view&id=1lp7mCM5BgiZMzIThorPSTNqVUeKotMfY",
+      img: "../src/images/martini.jpg",
       ability: "",
       value: 10,
       requirements: ["Vodka", "Vermouth"]
@@ -773,7 +773,7 @@ function CardsInPlay(props) {
       name: "Gin Martini",
       text: "Gin & Vermouth - 10",
       id: "gin-martini",
-      img: "https://drive.google.com/uc?export=view&id=1lp7mCM5BgiZMzIThorPSTNqVUeKotMfY",
+      img: "../src/images/martini.jpg",
       ability: "",
       value: 10,
       requirements: ["Gin", "Vermouth"]
@@ -783,7 +783,7 @@ function CardsInPlay(props) {
       name: "Bourbon Highball",
       text: "Whiskey & Soda - 11",
       id: "bourbon-highball",
-      img: "https://drive.google.com/uc?export=view&id=1b6FVCfkJJtGxY4TCJo7yjVvXakMXQ1hF",
+      img: "../src/images/bourbon-highball.jpg",
       ability: "",
       value: 11,
       requirements: ["Whiskey", "Soda"]
@@ -793,7 +793,7 @@ function CardsInPlay(props) {
       name: "Rum & Coke",
       text: "Rum & Soda - 11",
       id: "rum-and-coke",
-      img: "https://drive.google.com/uc?export=view&id=1VcCaAXJXvqiANJl5TwICBUmWGdXRT1Pg",
+      img: "../src/images/rum-and-coke.jpg",
       ability: "",
       value: 11,
       requirements: ["Rum", "Soda"]
@@ -803,7 +803,7 @@ function CardsInPlay(props) {
       name: "Paloma",
       text: "Tequila & Juice - 12",
       id: "paloma",
-      img: "https://drive.google.com/uc?export=view&id=1cbLSHIfTvLXQ0q8FbuipfBtB9RyxyqGw",
+      img: "../src/images/paloma.jpg",
       ability: "",
       value: 12,
       requirements: ["Tequila", "Juice"]
@@ -813,7 +813,7 @@ function CardsInPlay(props) {
       name: "Daiquiri",
       text: "Rum, Lime, & Simple - 17",
       id: "daquiri",
-      img: "https://drive.google.com/uc?export=view&id=1VetRmRsS04-ne1SbozprZjxgnphn50H5",
+      img: "../src/images/daiquiri.jpg",
       ability: "",
       value: 17,
       requirements: ["Rum", "Lime", "Simple"]
@@ -823,7 +823,7 @@ function CardsInPlay(props) {
       name: "Gimlet",
       text: "Gin, Lime, & Simple - 17",
       id: "gimlet",
-      img: "https://drive.google.com/uc?export=view&id=1umWQ_wTl9XYt6m-MtMV0VsX50Gy-SRnU",
+      img: "../src/images/gimlet.jpg",
       ability: "",
       value: 17,
       requirements: ["Gin", "Lime", "Simple"]
@@ -833,7 +833,7 @@ function CardsInPlay(props) {
       name: "Manhattan",
       text: "Whiskey, Bitters, & Vermouth - 18",
       id: "manhattan",
-      img: "https://drive.google.com/uc?export=view&id=1ZUYHs2a6W_Q1IfQgQ9T11osqvWHTuyQS",
+      img: "../src/images/manhattan.jpg",
       ability: "",
       value: 18,
       requirements: ["Whiskey", "Bitters", "Vermouth"]
@@ -843,7 +843,7 @@ function CardsInPlay(props) {
       name: "Moscow Mule",
       text: "Vodka, Lime, & Ginger Beer - 19",
       id: "moscow-mule",
-      img: "https://drive.google.com/uc?export=view&id=15_L6vTqk00skwE8gHHIxFDheQYLdDFWX",
+      img: "../src/images/moscow-mule.jpg",
       ability: "",
       value: 19,
       requirements: ["Vodka", "Lime", "Ginger Beer"]
@@ -853,7 +853,7 @@ function CardsInPlay(props) {
       name: "Dark & Stormy",
       text: "Rum, Lime, & Ginger Beer - 19",
       id: "dark-and-stormy",
-      img: "https://drive.google.com/uc?export=view&id=1G8DcYAmj24kWaU-gOb2WAleczBK5_JpT",
+      img: "../src/images/dark-and-stormy.jpg",
       ability: "",
       value: 19,
       requirements: ["Rum", "Lime", "Ginger Beer"]
@@ -863,7 +863,7 @@ function CardsInPlay(props) {
       name: "Old Fashioned",
       text: "Whiskey, Bitters, & Simple - 20",
       id: "old-fashioned",
-      img: "https://drive.google.com/uc?export=view&id=1lGhnoqKhgumc3vxEkiHI4FQM9vlJpfFH",
+      img: "../src/images/old-fashioned.jpg",
       ability: "",
       value: 20,
       requirements: ["Whiskey", "Bitters", "Simple"]
@@ -873,7 +873,7 @@ function CardsInPlay(props) {
       name: "Negroni",
       text: "Gin, Vermouth, & Campari - 21",
       id: "negroni",
-      img: "https://drive.google.com/uc?export=view&id=14o7Awc6jNO43RWHWyKIzTxyLVN4yjIDg",
+      img: "../src/images/negroni.jpg",
       ability: "",
       value: 21,
       requirements: ["Gin", "Vermouth", "Campari"]
@@ -883,7 +883,7 @@ function CardsInPlay(props) {
       name: "Teqroni",
       text: "Tequila, Vermouth, & Campari - 21",
       id: "teqroni",
-      img: "https://drive.google.com/uc?export=view&id=14o7Awc6jNO43RWHWyKIzTxyLVN4yjIDg",
+      img: "../src/images/negroni.jpg",
       ability: "",
       value: 21,
       requirements: ["Tequila", "Vermouth", "Campari"]
@@ -893,7 +893,7 @@ function CardsInPlay(props) {
       name: "Hairy Navel",
       text: "Vodka, Juice, & Schnapps - 22",
       id: "hairy-navel",
-      img: "https://drive.google.com/uc?export=view&id=1qmGm5LYyegIcp2IeSu8uWJGzENSrz45U",
+      img: "../src/images/hairy-navel.jpg",
       ability: "",
       value: 22,
       requirements: ["Vodka", "Juice", "Schnapps"]
@@ -903,7 +903,7 @@ function CardsInPlay(props) {
       name: "Tequila Sunrise",
       text: "Tequila, Juice, & Grenadine - 22",
       id: "tequila-sunrise",
-      img: "https://drive.google.com/uc?export=view&id=1INAU6lMS9rn-ohmgYnSK5kwAkvUvZR2H",
+      img: "../src/images/tequila-sunrise.jpg",
       ability: "",
       value: 22,
       requirements: ["Tequila", "Juice", "Grenadine"]
@@ -913,7 +913,7 @@ function CardsInPlay(props) {
       name: "Trio",
       text: "Drummer, Pianist, & Bassist - 20",
       id: "trio",
-      img: "https://drive.google.com/uc?export=view&id=1Yr_7_XsL6IN_rOTAVAXUcAwy3VccNMEc",
+      img: "../src/images/trio.jpg",
       ability: "",
       value: 20,
       requirements: ["Drummer", "Pianist", "Bassist"]
@@ -923,7 +923,7 @@ function CardsInPlay(props) {
       name: "Trumpet Led Quartet",
       text: "Trumpeter, Drummer, Pianist, & Bassist - 26",
       id: "trumpet-led-quartet",
-      img: "https://drive.google.com/uc?export=view&id=1wv6o6ujM_paxNI7kSKO_MIGpp63GzYwS",
+      img: "../src/images/quartet.jpg",
       ability: "",
       value: 26,
       requirements: ["Trumpeter", "Drummer", "Pianist", "Bassist"]
@@ -933,7 +933,7 @@ function CardsInPlay(props) {
       name: "Saxophone Led Quartet",
       text: "Saxophonist, Drummer, Pianist, & Bassist - 26",
       id: "saxophone-led-quartet",
-      img: "https://drive.google.com/uc?export=view&id=1wv6o6ujM_paxNI7kSKO_MIGpp63GzYwS",
+      img: "../src/images/quartet.jpg",
       ability: "",
       value: 26,
       requirements: ["Saxophonist", "Drummer", "Pianist", "Bassist"]
@@ -943,7 +943,7 @@ function CardsInPlay(props) {
       name: "Vocal Led Quartet",
       text: "Vocalist, Drummer, Pianist, & Bassist - 26",
       id: "vocal-led-quartet",
-      img: "https://drive.google.com/uc?export=view&id=1wv6o6ujM_paxNI7kSKO_MIGpp63GzYwS",
+      img: "../src/images/quartet.jpg",
       ability: "",
       value: 26,
       requirements: ["Vocalist", "Drummer", "Pianist", "Bassist"]
@@ -953,7 +953,7 @@ function CardsInPlay(props) {
       name: "Full Band",
       text: "Trumpeter, Vocalist, Saxophonist, Drummer, Pianist, & Bassist - 40",
       id: "full-band",
-      img: "https://drive.google.com/uc?export=view&id=1bFtpr2D6bai-xbUl0uIiOOuqT-fFPb0H",
+      img: "../src/images/full-band.jpg",
       ability: "",
       value: 40,
       requirements: ["Trumpeter", "Saxophonist", "Vocalist", "Drummer", "Pianist", "Bassist"]
@@ -963,7 +963,7 @@ function CardsInPlay(props) {
       name: "Minimalist Master",
       text: "3 different kinds of Minimalist decor - 22",
       id: "minimalist-master",
-      img: "https://drive.google.com/uc?export=view&id=1dqfPq-V8m8scZ8sS5wFAlTRJuXRKQ2Qg",
+      img: "../src/images/minimalist-master.jpg",
       ability: "",
       value: 22,
       requirements: ["White Paint", "Wood Stools", "Hanging Edison Lights"]
@@ -973,7 +973,7 @@ function CardsInPlay(props) {
       name: "Bohemian Master",
       text: "3 different kinds of Bohemian decor - 22",
       id: "bohemian-master",
-      img: "https://drive.google.com/uc?export=view&id=1KN_B-cYT_d_ckKPWI4P2UhiXm-PMIfOw",
+      img: "../src/images/bohemian-master.jpg",
       ability: "",
       value: 22,
       requirements: ["Hanging Plant", "Kaleido scope Mural", "Pillows"]
@@ -983,7 +983,7 @@ function CardsInPlay(props) {
       name: "Zen Master",
       text: "3 different kinds of Zen decor - 30",
       id: "zen-master",
-      img: "https://drive.google.com/uc?export=view&id=1yT4s2Q1Ifi2tqYo-Oko5aD8DGtz462rm",
+      img: "../src/images/zen-master.jpg",
       ability: "",
       value: 30,
       requirements: ["Bonsai Tree", "Sliding Glass Door", "Old Meditating Scholar Art"]
@@ -996,7 +996,7 @@ function CardsInPlay(props) {
       name: "Minimalist Vibe",
       text: "2 different kinds of Minimalist decor - 15",
       id: "minimalist-vibe",
-      img: "https://drive.google.com/uc?export=view&id=1LODPrTZiXlwEfZGU79vX9tApWPeVTxbm",
+      img: "../src/images/minimalist-vibe.jpg",
       ability: "",
       value: 15,
      },
@@ -1005,7 +1005,7 @@ function CardsInPlay(props) {
       name: "Bohemian Vibe",
       text: "2 different kinds of Bohemian decor - 15",
       id: "bohemian-vibe",
-      img: "https://drive.google.com/uc?export=view&id=15Sk1jFoceTpsMgq8yWpjgGQvZv7tkWpl",
+      img: "../src/images/bohemian-vibe.jpg",
       ability: "",
       value: 15,
       requirements: ["Hanging Plant", "Kaleido scope Mural", "Pillows"]
@@ -1015,7 +1015,7 @@ function CardsInPlay(props) {
       name: "Zen Vibe",
       text: "2 different kinds of Zen decor - 18",
       id: "zen-vibe",
-      img: "https://drive.google.com/uc?export=view&id=1k2jwg8O8zE4r3mHd3xhe9HwwLCNQBYuf",
+      img: "../src/images/zen-vibe.jpg",
       ability: "",
       value: 18,
       requirements: ["Bonsai Tree", "Sliding Glass Door", "Old Meditating Scholar Art"]
@@ -1198,11 +1198,23 @@ function CardsInPlay(props) {
           heading.innerHTML = "You win :0";
           heading.setAttribute('id','victory-heading');
           document.getElementById("cards-in-play").appendChild(heading);
+          const playAgainButton = document.createElement('button');
+          playAgainButton.innerHTML = "Play again?"
+          playAgainButton.id = "play-again-button";
+          playAgainButton.className = "buttons";
+          playAgainButton.onclick = function(){location.reload()}
+          document.getElementById("cards-in-play").appendChild(playAgainButton)
         } else {
           var heading = document.createElement('h1');
           heading.innerHTML = "You lose :(";
           heading.setAttribute('id','defeat-heading');
           document.getElementById("cards-in-play").appendChild(heading);
+          const playAgainButton = document.createElement('button');
+          playAgainButton.innerHTML = "Play again?"
+          playAgainButton.id = "play-again-button";
+          playAgainButton.className = "buttons";
+          playAgainButton.onclick = function(){location.reload()}
+          document.getElementById("cards-in-play").appendChild(playAgainButton)
         }
     }
   };
@@ -4030,7 +4042,7 @@ function BasicRules() {
         <li className="basic-rules-list-item">If you attract at least 6 of the 11 listed customers, you win!</li>
         <li className="basic-rules-list-item">Have fun and good luck !</li>
       </ul>
-      <footer id="basic-rules-footer">Click outside the border to return to game</footer>
+      <footer id="basic-rules-footer"><b>*Click outside the border to return to game*</b></footer>
       </div>
       </ReactModal>
     </div>
@@ -4095,7 +4107,7 @@ function MenuPopUp() {
         <li className="menu-list-item">Bohemian Master [3 Bohemian Decor Cards] (22)</li>
         <li className="menu-list-item">Zen Master [3 Zen Decor Cards] (30)</li>
       </ul>
-      <footer id="menu-footer">Click outside the border to return to game</footer>
+      <footer id="menu-footer"><b>*Click outside the border to return to game*</b></footer>
       </div>
       </ReactModal>
     </div>
@@ -4110,7 +4122,7 @@ function App() {
       name: "Irina",
       text: "Rum, Gin, & Juice",
       id: "irina",
-      img: "https://drive.google.com/uc?export=view&id=1sInOsa0vsFmzZT5oYbT9TDv9q49F4_Sa",
+      img: "../src/images/owner-girl.jpg",
       ability: "",
       value: 0,
      },
@@ -4119,7 +4131,7 @@ function App() {
       name: "Ilya",
       text: "Vodka, Tequila, & Soda",
       id: "ilya",
-      img: "https://drive.google.com/uc?export=view&id=1sInOsa0vsFmzZT5oYbT9TDv9q49F4_Sa",
+      img: "../src/images/owner-girl.jpg",
       ability: "",
       value: 1,
      },
@@ -4128,7 +4140,7 @@ function App() {
       name: "Osweald",
       text: "Whiskey, Rum, & Vermouth",
       id: "osweald",
-      img: "https://drive.google.com/uc?export=view&id=1fiCikn5R0v-eyLpaYGriuGckGeUqPGO1",
+      img: "../src/images/owner-guy.jpg",
       ability: "",
       value: 2,
      },
@@ -4137,7 +4149,7 @@ function App() {
       name: "Lionel",
       text: "Gin, Vodka, & Soda",
       id: "lionel",
-      img: "https://drive.google.com/uc?export=view&id=1fiCikn5R0v-eyLpaYGriuGckGeUqPGO1",
+      img: "../src/images/owner-guy.jpg",
       ability: "",
       value: 3,
      },
@@ -4146,7 +4158,7 @@ function App() {
       name: "José",
       text: "Tequila, Whiskey, & Vermouth",
       id: "jose",
-      img: "https://drive.google.com/uc?export=view&id=1fiCikn5R0v-eyLpaYGriuGckGeUqPGO1",
+      img: "../src/images/owner-guy.jpg",
       ability: "",
       value: 4,
      },
@@ -4155,7 +4167,7 @@ function App() {
       name: "Kilian",
       text: "Rum, Juice, & Vermouth",
       id: "kilian",
-      img: "https://drive.google.com/uc?export=view&id=1fiCikn5R0v-eyLpaYGriuGckGeUqPGO1",
+      img: "../src/images/owner-guy.jpg",
       ability: "",
       value: 5,
      },
@@ -4164,7 +4176,7 @@ function App() {
       name: "Rian",
       text: "Gin, Soda, & Juice",
       id: "rian",
-      img: "https://drive.google.com/uc?export=view&id=1sInOsa0vsFmzZT5oYbT9TDv9q49F4_Sa",
+      img: "../src/images/owner-girl.jpg",
       ability: "",
       value: 6,
      },
@@ -4173,7 +4185,7 @@ function App() {
       name: "Shivani",
       text: "Vodka, Soda, & Juice",
       id: "shivani",
-      img: "https://drive.google.com/uc?export=view&id=1sInOsa0vsFmzZT5oYbT9TDv9q49F4_Sa",
+      img: "../src/images/owner-girl.jpg",
       ability: "",
       value: 7,
      },
@@ -4182,7 +4194,7 @@ function App() {
       name: "Matilde",
       text: "Tequila, Soda, & Vermouth",
       id: "matilde",
-      img: "https://drive.google.com/uc?export=view&id=1sInOsa0vsFmzZT5oYbT9TDv9q49F4_Sa",
+      img: "../src/images/owner-girl.jpg",
       ability: "",
       value: 8,
      },
@@ -4191,7 +4203,7 @@ function App() {
       name: "Tao",
       text: "Whiskey, Juice, & Vermouth",
       id: "tao",
-      img: "https://drive.google.com/uc?export=view&id=1fiCikn5R0v-eyLpaYGriuGckGeUqPGO1",
+      img: "../src/images/owner-guy.jpg",
       ability: "",
       value: 9,
      }
@@ -4204,7 +4216,7 @@ function App() {
       text: "",
       id: "irina-rum",
       ownerName: "irina",
-      img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+      img: "../src/images/rum.jpg",
       ability: "",
      },
      {
@@ -4213,7 +4225,7 @@ function App() {
       text: "",
       id: "irina-gin",
       ownerName: "irina",
-      img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+      img: "../src/images/gin.jpg",
       ability: "",
      },
      {
@@ -4222,7 +4234,7 @@ function App() {
       text: "",
       id: "irina-juice",
       ownerName: "irina",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
      },
      {
@@ -4231,7 +4243,7 @@ function App() {
       text: "",
       id: "ilya-vodka",
       ownerName: "ilya",
-      img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+      img: "../src/images/vodka.jpg",
       ability: "",
      },
      {
@@ -4240,7 +4252,7 @@ function App() {
       text: "",
       id: "ilya-tequila",
       ownerName: "ilya",
-      img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+      img: "../src/images/tequila.jpg",
       ability: "",
      },
      {
@@ -4249,7 +4261,7 @@ function App() {
       text: "",
       id: "ilya-soda",
       ownerName: "ilya",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
      },
      {
@@ -4258,7 +4270,7 @@ function App() {
       text: "",
       id: "osweald-whiskey",
       ownerName: "osweald",
-      img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+      img: "../src/images/whiskey.jpg",
       ability: "",
      },
      {
@@ -4267,7 +4279,7 @@ function App() {
       text: "",
       id: "osweald-rum",
       ownerName: "osweald",
-      img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+      img: "../src/images/rum.jpg",
       ability: "",
      },
      {
@@ -4276,7 +4288,7 @@ function App() {
       text: "",
       id: "osweald-vermouth",
       ownerName: "osweald",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: "",
      },
      {
@@ -4285,7 +4297,7 @@ function App() {
       text: "",
       id: "lionel-gin",
       ownerName: "lionel",
-      img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+      img: "../src/images/gin.jpg",
       ability: "",
      },
      {
@@ -4294,7 +4306,7 @@ function App() {
       text: "",
       id: "lionel-vodka",
       ownerName: "lionel",
-      img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+      img: "../src/images/vodka.jpg",
       ability: "",
      },
      {
@@ -4303,7 +4315,7 @@ function App() {
       text: "",
       id: "lionel-soda",
       ownerName: "lionel",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
      },
      {
@@ -4312,7 +4324,7 @@ function App() {
       text: "",
       id: "jose-tequila",
       ownerName: "jose",
-      img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+      img: "../src/images/tequila.jpg",
       ability: "",
      },
      {
@@ -4321,7 +4333,7 @@ function App() {
       text: "",
       id: "jose-whiskey",
       ownerName: "jose",
-      img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+      img: "../src/images/whiskey.jpg",
       ability: "",
      },
      {
@@ -4330,7 +4342,7 @@ function App() {
       text: "",
       id: "jose-vermouth",
       ownerName: "jose",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: "",
      },
      {
@@ -4339,7 +4351,7 @@ function App() {
       text: "",
       id: "kilian-rum",
       ownerName: "kilian",
-      img: "https://drive.google.com/uc?export=view&id=1Er-Q6kFh84uCkP5KvMhh0iYnbVd-OIL1",
+      img: "../src/images/rum.jpg",
       ability: "",
      },
      {
@@ -4348,7 +4360,7 @@ function App() {
       text: "",
       id: "kilian-juice",
       ownerName: "kilian",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
      },
      {
@@ -4357,7 +4369,7 @@ function App() {
       text: "",
       id: "kilian-vermouth",
       ownerName: "kilian",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: "",
      },
      {
@@ -4366,7 +4378,7 @@ function App() {
       text: "",
       id: "rian-gin",
       ownerName: "rian",
-      img: "https://drive.google.com/uc?export=view&id=14VvM6xvOawikf1nC-5mklxCqngnCAjc6",
+      img: "../src/images/gin.jpg",
       ability: "",
      },
      {
@@ -4375,7 +4387,7 @@ function App() {
       text: "",
       id: "rian-soda",
       ownerName: "rian",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
      },
      {
@@ -4384,7 +4396,7 @@ function App() {
       text: "",
       id: "rian-juice",
       ownerName: "rian",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
      },
      {
@@ -4393,7 +4405,7 @@ function App() {
       text: "",
       id: "shivani-vodka",
       ownerName: "shivani",
-      img: "https://drive.google.com/uc?export=view&id=1I1h1oPZGwk0ylWmN_NAp0TLww0_YfeME",
+      img: "../src/images/vodka.jpg",
       ability: "",
      },
      {
@@ -4402,7 +4414,7 @@ function App() {
       text: "",
       id: "shivani-juice",
       ownerName: "shivani",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
      },
      {
@@ -4411,7 +4423,7 @@ function App() {
       text: "",
       id: "shivani-soda",
       ownerName: "shivani",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
      },
      {
@@ -4420,7 +4432,7 @@ function App() {
       text: "",
       id: "matilde-tequila",
       ownerName: "matilde",
-      img: "https://drive.google.com/uc?export=view&id=14VUMUE_LpyFzjs-H0wKfUIqnqL7axNJ9",
+      img: "../src/images/tequila.jpg",
       ability: "",
      },
      {
@@ -4429,7 +4441,7 @@ function App() {
       text: "",
       id: "matilde-soda",
       ownerName: "matilde",
-      img: "https://drive.google.com/uc?export=view&id=17GpMOEYvL5_ZNLIkrUTqWmzGl2YcShy2",
+      img: "../src/images/soda.jpg",
       ability: "",
      },
      {
@@ -4438,7 +4450,7 @@ function App() {
       text: "",
       id: "matilde-vermouth",
       ownerName: "matilde",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: "",
      },
      {
@@ -4447,7 +4459,7 @@ function App() {
       text: "",
       id: "tao-whiskey",
       ownerName: "tao",
-      img: "https://drive.google.com/uc?export=view&id=19sh9gzsz9jJ1omqvHEkH17hzedq7y6kc",
+      img: "../src/images/whiskey.jpg",
       ability: "",
      },
      {
@@ -4456,7 +4468,7 @@ function App() {
       text: "",
       id: "tao-juice",
       ownerName: "tao",
-      img: "https://drive.google.com/uc?export=view&id=1n9POf9dNoM31ftHTIN0lVcpGAe3BOpBA",
+      img: "../src/images/juice.jpg",
       ability: "",
      },
      {
@@ -4465,7 +4477,7 @@ function App() {
       text: "",
       id: "tao-vermouth",
       ownerName: "tao",
-      img: "https://drive.google.com/uc?export=view&id=1HqI8X7SEQ1r4QbtHFaDdE6XYqsj1y84z",
+      img: "../src/images/vermouth.jpg",
       ability: ""
      }
   ];
@@ -4504,7 +4516,7 @@ function App() {
       name: "Alpha",
       text: "+20 for each vodka-based cocktail",
       id: "alpha",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 0,
       points: 20,
@@ -4515,7 +4527,7 @@ function App() {
       name: "Beta",
       text: "+20 for each gin-based cocktail",
       id: "beta",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 1,
       points: 20,
@@ -4526,7 +4538,7 @@ function App() {
       name: "Gamma",
       text: "+20 for each tequila-based cocktail",
       id: "gamma",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 2,
       points: 20,
@@ -4537,7 +4549,7 @@ function App() {
       name: "Delta",
       text: "+20 for each rum-based cocktail",
       id: "delta",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 3,
       points: 20,
@@ -4548,7 +4560,7 @@ function App() {
       name: "Epsilon",
       text: "+20 for each whiskey-based cocktail",
       id: "epsilon",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 4,
       points: 20,
@@ -4559,7 +4571,7 @@ function App() {
       name: "Eta",
       text: "+10 for each cocktail w/juice",
       id: "eta",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 6,
       points: 10,
@@ -4570,7 +4582,7 @@ function App() {
       name: "Theta",
       text: "+10 for each cocktail w/soda",
       id: "theta",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 7,
       points: 10,
@@ -4581,7 +4593,7 @@ function App() {
       name: "Iota",
       text: "+30 for vodka martini",
       id: "iota",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 8,
       points: 30,
@@ -4592,7 +4604,7 @@ function App() {
       name: "Kappa",
       text: "+30 for bourbon highball",
       id: "kappa",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 9,
       points: 30,
@@ -4603,7 +4615,7 @@ function App() {
       name: "Lambda",
       text: "+30 for paloma",
       id: "lambda",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 10,
       points: 30,
@@ -4614,7 +4626,7 @@ function App() {
       name: "Mu",
       text: "+30 for gin martini",
       id: "mu",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 45,
       points: 30,
@@ -4625,7 +4637,7 @@ function App() {
       name: "Nu",
       text: "+30 for rum & coke",
       id: "nu",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 46,
       points: 30,
@@ -4636,7 +4648,7 @@ function App() {
       name: "Omicron",
       text: "-10 for each cocktail w/juice",
       id: "omicron",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 12,
       points: -10,
@@ -4647,7 +4659,7 @@ function App() {
       name: "Pi",
       text: "-10 for each cocktail w/soda",
       id: "pi",
-      img: "https://drive.google.com/uc?export=view&id=17kpY41DOSwtC9amhDpebIn_0UmUdAX_Z",
+      img: "../src/images/angry-girl.jpg",
       ability: "",
       value: 13,
       points: -10,
@@ -4658,7 +4670,7 @@ function App() {
       name: "Rho",
       text: "-20 for each vodka-based cocktail",
       id: "rho",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 14,
       points: -20,
@@ -4669,7 +4681,7 @@ function App() {
       name: "Sigma",
       text: "-20 for each gin-based cocktail",
       id: "sigma",
-      img: "https://drive.google.com/uc?export=view&id=17kpY41DOSwtC9amhDpebIn_0UmUdAX_Z",
+      img: "../src/images/angry-girl.jpg",
       ability: "",
       value: 15,
       points: -20,
@@ -4680,7 +4692,7 @@ function App() {
       name: "Tau",
       text: "-20 for each tequila-based cocktail",
       id: "tau",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 16,
       points: -20,
@@ -4691,7 +4703,7 @@ function App() {
       name: "Upsilon",
       text: "-20 for each rum-based cocktail",
       id: "upsilon",
-      img: "https://drive.google.com/uc?export=view&id=17kpY41DOSwtC9amhDpebIn_0UmUdAX_Z",
+      img: "../src/images/angry-girl.jpg",
       ability: "",
       value: 17,
       points: -20,
@@ -4702,7 +4714,7 @@ function App() {
       name: "Phi",
       text: "-20 for each whiskey-based cocktail",
       id: "phi",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 18,
       points: -20,
@@ -4713,7 +4725,7 @@ function App() {
       name: "Chi",
       text: "-30 for trio",
       id: "chi",
-      img: "https://drive.google.com/uc?export=view&id=17kpY41DOSwtC9amhDpebIn_0UmUdAX_Z",
+      img: "../src/images/angry-girl.jpg",
       ability: "",
       value: 19,
       points: -30,
@@ -4724,7 +4736,7 @@ function App() {
       name: "Psi",
       text: "-60 for full band",
       id: "psi",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 20,
       points: -60,
@@ -4735,7 +4747,7 @@ function App() {
       name: "Omega",
       text: "+30 for trio",
       id: "omega",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 21,
       points: 30,
@@ -4746,7 +4758,7 @@ function App() {
       name: "Alef",
       text: "+50 for trumpet-led quartet",
       id: "alef",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 22,
       points: 50,
@@ -4757,7 +4769,7 @@ function App() {
       name: "Beit",
       text: "+50 for saxophone-led quartet",
       id: "beit",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 23,
       points: 50,
@@ -4768,7 +4780,7 @@ function App() {
       name: "Gimel",
       text: "+50 for vocal-led quartet",
       id: "gimel",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 24,
       points: 50,
@@ -4779,7 +4791,7 @@ function App() {
       name: "Dalet",
       text: "+60 for full band",
       id: "dalet",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 25,
       points: 60,
@@ -4790,7 +4802,7 @@ function App() {
       name: "Hei",
       text: "+30 for minimalist vibe",
       id: "hei",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 26,
       points: 30,
@@ -4801,7 +4813,7 @@ function App() {
       name: "Vav",
       text: "-30 for minimalist vibe",
       id: "vav",
-      img: "https://drive.google.com/uc?export=view&id=17kpY41DOSwtC9amhDpebIn_0UmUdAX_Z",
+      img: "../src/images/angry-girl.jpg",
       ability: "",
       value: 27,
       points: -30,
@@ -4812,7 +4824,7 @@ function App() {
       name: "Zayin",
       text: "+30 for bohemian vibe",
       id: "zayin",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 28,
       points: 30,
@@ -4823,7 +4835,7 @@ function App() {
       name: "Cheit",
       text: "-30 for bohemian vibe",
       id: "cheit",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 29,
       points: -30,
@@ -4834,7 +4846,7 @@ function App() {
       name: "Teit",
       text: "+30 for zen vibe",
       id: "teit",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 30,
       points: 30,
@@ -4845,7 +4857,7 @@ function App() {
       name: "Yod",
       text: "-30 for zen vibe",
       id: "yod",
-      img: "https://drive.google.com/uc?export=view&id=17kpY41DOSwtC9amhDpebIn_0UmUdAX_Z",
+      img: "../src/images/angry-girl.jpg",
       ability: "",
       value: 31,
       points: -30,
@@ -4856,7 +4868,7 @@ function App() {
       name: "Kaf",
       text: "+50 for BOTH negroni & daiquiri",
       id: "kaf",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 32,
       points: 50,
@@ -4867,7 +4879,7 @@ function App() {
       name: "Lamed",
       text: "+50 for BOTH dark & stormy & gimlet",
       id: "lamed",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 33,
       points: 50,
@@ -4878,7 +4890,7 @@ function App() {
       name: "Mem",
       text: "+50 for BOTH teqroni & old fashioned",
       id: "mem",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 34,
       points: 50,
@@ -4889,7 +4901,7 @@ function App() {
       name: "Nun",
       text: "+50 for BOTH tequila sunrise & manhattan",
       id: "nun",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 35,
       points: 50,
@@ -4900,7 +4912,7 @@ function App() {
       name: "Samekh",
       text: "+50 for BOTH moscow mule & hairy navel",
       id: "samekh",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 36,
       points: 50,
@@ -4911,7 +4923,7 @@ function App() {
       name: "Ayin",
       text: "+50 for ALL THREE: vodka martini, bourbon highball, & paloma",
       id: "ayin",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 37,
       points: 50,
@@ -4922,7 +4934,7 @@ function App() {
       name: "Ayin",
       text: "+50 for ALL THREE: vodka martini, bourbon highball, & paloma",
       id: "ayin",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 37,
       points: 50,
@@ -4933,7 +4945,7 @@ function App() {
       name: "Pei",
       text: "+50 for ALL THREE: gin martini, vodka martini, & rum & coke",
       id: "pei",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 38,
       points: 50,
@@ -4944,7 +4956,7 @@ function App() {
       name: "Tzadei",
       text: "+50 for ALL THREE: gin martini, bourbon highball, & rum & coke",
       id: "tzadei",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 39,
       points: 50,
@@ -4955,7 +4967,7 @@ function App() {
       name: "Qof",
       text: "-50 for minimalist master",
       id: "qof",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 40,
       points: -50,
@@ -4966,7 +4978,7 @@ function App() {
       name: "Reish",
       text: "-50 for bohemian master",
       id: "reish",
-      img: "https://drive.google.com/uc?export=view&id=17kpY41DOSwtC9amhDpebIn_0UmUdAX_Z",
+      img: "../src/images/angry-girl.jpg",
       ability: "",
       value: 41,
       points: -50,
@@ -4977,7 +4989,7 @@ function App() {
       name: "Sin",
       text: "-50 for zen master",
       id: "sin",
-      img: "https://drive.google.com/uc?export=view&id=1zHRc352vx_P-rgpOC3Wq-GkEznnB6pc_",
+      img: "../src/images/angry-boy.jpg",
       ability: "",
       value: 42,
       points: -50,
@@ -4988,7 +5000,7 @@ function App() {
       name: "Shin",
       text: "+50 for bohemian master",
       id: "shin",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 43,
       points: 50,
@@ -4999,7 +5011,7 @@ function App() {
       name: "Tav",
       text: "+50 for zen master",
       id: "tav",
-      img: "https://drive.google.com/uc?export=view&id=1__xSCKT_IpBpk7o_sot08GkDhWNozWuJ",
+      img: "../src/images/happy-boy.jpg",
       ability: "",
       value: 44,
       points: 50,
@@ -5010,7 +5022,7 @@ function App() {
       name: "Zeta",
       text: "+50 for minimalist master",
       id: "zeta",
-      img: "https://drive.google.com/uc?export=view&id=1E79R-H-Pa244u55Ca5uk4e4MbVQc8BvB",
+      img: "../src/images/happy-girl.jpg",
       ability: "",
       value: 45,
       points: 50,
