@@ -238,7 +238,7 @@ function CardsInPlay(props) {
       name: "Hanging Plant",
       text: "Bohemian",
       id: "hanging-plant-feb",
-      img: "../src/images/hanging-plant.jpg",
+      img: "../src/images/hanging-plants.jpg",
       ability: "",
       value: 9
      },  
