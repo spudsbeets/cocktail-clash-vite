@@ -42,6 +42,10 @@
     }
 }
 
+a, button {
+    color: black
+}
+
 #date-display-header, #difficulty-heading, #difficulty-explanation, #owner-header, #customer-header, #choose-difficulty-header, #musician-header, #spirit-header, #ingredient-header, #decor-header, #menu-card-header, #opening-day, #point-display, #customer-decisions, #yes-header, #no-header {
     color: #ffc0cb;
 } 
